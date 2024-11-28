@@ -24,8 +24,10 @@ Bu projeyi çalıştırdığınızda, iki noktanın koordinatlarını girerek Ö
 
 Örnek kullanım:
 
-	python oklid_mesafesi.py
- 
+```bash
+python oklid_mesafesi.py
+'''
+
 Daha sonra program sizden sırasıyla iki noktanın koordinatlarını isteyecektir:
 	Birinci noktanın x koordinatını girin: 3
 	Birinci noktanın y koordinatını girin: 4
