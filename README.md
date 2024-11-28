@@ -26,7 +26,7 @@ Bu projeyi çalıştırdığınızda, iki noktanın koordinatlarını girerek Ö
 
 ```bash
 python oklid_mesafesi.py
-'''
+```
 
 Daha sonra program sizden sırasıyla iki noktanın koordinatlarını isteyecektir:
 	Birinci noktanın x koordinatını girin: 3
@@ -38,12 +38,6 @@ Sonuç ekranda şöyle görünecektir:
 
 	İki nokta arasındaki Öklid mesafesi: 5.0
 
-## Proje Yapısı
-
-	_Oklid.Mesafesi_/
-	├── README.md          # Proje açıklama dosyası
-	├── oklid_mesafesi.py  # Ana Python dosyası
-	└── requirements.txt   # Gerekli kütüphaneler (varsa)
 
 
 
